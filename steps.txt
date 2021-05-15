@@ -1,0 +1,14 @@
+unzip the Internship.zip file and open the unzipped scraping 3 folder in a VS code editor and then follow the steps 
+written below
+NOTE:If you are using anaconda then open the anaconda powershell and type
+anaconda jupyter
+This will open the jupyter notebook.
+Now open the required .ipynb file directly from the folder on the jupyter notebook.
+
+STEP 0-Start
+STEP 1- Run first_links_extraction.ipynb
+STEP 2- The required top 100 internshala internship links will be stored in first_links.csv
+STEP 3- then run internships_scrape.ipynb on jupyter notebook and you will get all the scraped data from each links.
+STEP 5- after running the internships_scrape.ipynb on jupyter we will get the internships.xlsx file
+STEP 6-open your internships.xlsx file and view it.
+STEP 7-END
